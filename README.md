@@ -1,8 +1,13 @@
 # python_100_days_Coding_challenge by @CodeWithHarry 
 100 days python coding challenge
 
-# Guys ! Its not a copy paste code OK, i was Watched all videos given link (here). below 
-# i have a Advance Knowladge in JavaScript & also Little bit java so is helpful to make this Cousre Easy
+Hello everyone! Just to clarify, this is not a copy-paste code. I have thoroughly watched over 100 videos, understood the concepts, and then wrote the code myself. I have advanced knowledge in JavaScript, and my understanding of Java also helped me make this course easier to grasp.
+
+#🔥SPECIAL THNAKS TO YOU ⭐💫💯
+
+if ( CodeWithHarry  == haris Ali Khan ):
+    print("Thank you ☺️")
+ 
 
 @codewithhayyy
 Link : - https://github.com/CodeWithHarry/100-days-of-code-youtube 
