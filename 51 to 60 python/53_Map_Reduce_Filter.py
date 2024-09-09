@@ -4,10 +4,11 @@ def cube(x):
     return x*x*x
 
 print(cube(4))
-
 l = [1,2, 3, 4, 6, 5, 8,2]
 
-newl = list(map(cube , l)) #map
+newl = list(map(lambda x :x*x*x, l))
+
+# newl = list(map(cube , l)) #map
 print(newl)
 
 
@@ -22,9 +23,10 @@ print(newl2)
 
 
 
-#reduce
+#reduce 
 
-def red(x):
-    pass
+from functools import reduce
 
-newr = reduc
+number = [1,2,3,4,5]
+sum = reduce(lambda x,y :x+y,number)
+print(sum)
