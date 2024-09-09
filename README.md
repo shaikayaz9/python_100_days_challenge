@@ -6,7 +6,8 @@ Hello everyone! Just to clarify, this is not a copy-paste code. I have thoroughl
 #🔥SPECIAL THNAKS TO YOU ⭐💫💯
 
 if ( CodeWithHarry  == haris Ali Khan ):
-    print("Thank you ☺️")
+     
+     print("Thank you ☺️")
  
 
 @codewithhayyy
