@@ -1,0 +1,2 @@
+# write a program to clear the cultter inside a folder on your computer.
+#you should use os module to resume all the png image from 1.png all the way till n.png where n is the number of png files in that folder. do the same for other file formats.
